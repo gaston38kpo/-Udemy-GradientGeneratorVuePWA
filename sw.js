@@ -7,7 +7,7 @@ const urlsToCache = [
   "./img/icon32.png",
   "./img/icon64.png",
   "./img/icon128.png",
-  "./img/icon192.png",
+  "./img/maskable.png",
   "./img/icon256.png",
   "./img/icon512.png",
   "./img/icon1024.png",
